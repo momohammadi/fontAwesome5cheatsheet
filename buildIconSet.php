@@ -1,4 +1,14 @@
 <?
+/* 
+ * Class Name: buildIconSet
+ * Description: this php class help to Receive,Update font list from fontawesome.com version 5.X easy to use on your project
+ * Version: 1
+ * Author URI: https://github.com/momohammadi/
+ * GitHub Plugin URI: https://github.com/momohammadi/fontAwesome5cheatsheet
+ * GitHub Branch: master
+ * License: GPL-3.0+
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
+*/
 class buildIconSet{
     protected $content;
     protected $pageContent;
